@@ -31,3 +31,9 @@ $ sudo make install
 ```
 $ sudo pip install -U selenium
 ```
+
+
+Si quieres enviarnos tu currículum, estos son nuestros e-mails:
+
+diego.arenal@bizneo.com
+juanjo.rivera@bizneo.com
