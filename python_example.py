@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/python
 # -*- encoding: utf-8 -*-
 
@@ -48,4 +47,3 @@ for i in range(0, 100):
   sign_out = li.find_element_by_css_selector('a')
   sign_out.click()
   time.sleep(5)
-```
