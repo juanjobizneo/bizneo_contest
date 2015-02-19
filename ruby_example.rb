@@ -1,4 +1,3 @@
-```ruby
 # Carga de los ficheros de configuración
 require 'capybara'
 include Capybara::DSL
@@ -40,4 +39,3 @@ Capybara.default_driver = :selenium
   page.find('.dropdown-menu').all('li').last.find('a').click
   sleep(5)
 end
-```
