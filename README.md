@@ -13,7 +13,10 @@ $ source ~/.rvm/scripts/rvm
 ### Instalación de las bibliotecas necesarias para creación de bots
 ```
 $ gem install capybara
+$ gem install capybara-webkit
 $ gem install 'selenium-webdriver' -v '2.45.0.dev3'
+$ sudo apt-get install libqt4-dev
+$ sudo apt-get install libqt4-webkit
 ```
 
 ## Python
