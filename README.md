@@ -1,5 +1,7 @@
 # bizneo_contest
-Manual de instalación y ejemplos para la sesión formativa del Jueves 19 de Febrero de 2015 a las 12:30 en la Escuela Superior de Informática de Ciudad Real.
+Manual de instalación y ejemplos para:
+* La sesión formativa del Jueves 19 de Febrero de 2015 a las 12:30 en la Escuela Superior de Informática de Ciudad Real.
+* Taller Agile-CR Scraping y Bots http://bit.ly/1PonTbv
 
 ## Ruby
 
@@ -19,7 +21,7 @@ $ sudo apt-get install libqt4-dev
 $ sudo apt-get install libqt4-webkit
 ```
 
-## Python
+## Python (Es optativo)
 
 ### Instalación Python (Linux)
 ```
@@ -38,5 +40,5 @@ $ sudo pip install -U selenium
 
 Si quieres enviarnos tu currículum, estos son nuestros e-mails:
 
-diego.arenal@bizneo.com
-juanjo.rivera@bizneo.com
+* diego.arenal@bizneo.com
+* juanjo.rivera@bizneo.com
