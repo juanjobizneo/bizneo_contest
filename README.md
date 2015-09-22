@@ -1,6 +1,6 @@
 # bizneo_contest
 Manual de instalación y ejemplos para:
-* La sesión formativa del Jueves 19 de Febrero de 2015 a las 12:30 en la Escuela Superior de Informática de Ciudad Real.
+* La sesión formativa del Jueves 24 de Marzo de 2015 a las 13:00 en la Escuela Superior de Informática de Ciudad Real, en el LD6.
 * Taller Agile-CR Scraping y Bots http://bit.ly/1PonTbv
 
 ## Ruby
