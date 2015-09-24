@@ -1,6 +1,6 @@
 # bizneo_contest
 Manual de instalación y ejemplos para:
-* La sesión formativa del Jueves 24 de Marzo de 2015 a las 13:00 en la Escuela Superior de Informática de Ciudad Real, en el LD6.
+* La sesión formativa del Jueves 24 de Septiembre de 2015 a las 13:00 en la Escuela Superior de Informática de Ciudad Real, en el LD6.
 * Taller Agile-CR Scraping y Bots http://bit.ly/1PonTbv
 
 ## Ruby
@@ -14,11 +14,11 @@ $ source ~/.rvm/scripts/rvm
 
 ### Instalación de las bibliotecas necesarias para creación de bots
 ```
-$ gem install capybara
-$ gem install capybara-webkit
-$ gem install 'selenium-webdriver' -v '2.45.0.dev3'
 $ sudo apt-get install libqt4-dev
 $ sudo apt-get install libqt4-webkit
+$ gem install capybara
+$ gem install capybara-webkit
+$ gem install selenium-webdriver
 ```
 
 ## Python (Es optativo)
@@ -42,3 +42,5 @@ Si quieres enviarnos tu currículum, estos son nuestros e-mails:
 
 * diego.arenal@bizneo.com
 * juanjo.rivera@bizneo.com
+* david.valero@bizneo.com
+* 

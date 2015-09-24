@@ -22,8 +22,8 @@ class Goearify
     @cookies = cookies.is_a?(String) ? cookies : cookies.join('; ')
 
     body = {
-      "user_name" => "basestylo",
-      "password" => "winxp123",
+      "user_name" => "########",
+      "password" => "########",
       "back" => "http://www.goear.com/"
     }
 
