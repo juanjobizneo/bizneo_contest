@@ -5,22 +5,29 @@ Manual de instalación y ejemplos para:
 
 ## Ruby
 
-### Instalación Ruby (Linux)
+### Instalación (Linux)
+```
+$ sudo apt-get install curl libqt5webkit5-dev g++ qt5-default
+$ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+$ \curl -sSL https://get.rvm.io | bash -s stable
+$ echo "source $HOME/.rvm/scripts/rvm" >> $HOME/.bashrc
+$ source $HOME/.rvm/scripts/rvm
+$ rvm use 2.2.1 --default
+$ gem install capybara
+$ gem install selenium-webdriver
+$ gem install capybara-webkit
+```
+
+### Instalación (OSx)
 ```
 $ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-$ \curl -sSL https://get.rvm.io | bash -s stable --ruby
-$ source ~/.rvm/scripts/rvm
-```
-
-### Instalación de las bibliotecas necesarias para creación de bots
-```
-$ sudo apt-get install libqt4-dev
-$ sudo apt-get install libqt4-webkit
+$ \curl -sSL https://get.rvm.io | bash -s stable
+$ source $HOME/.rvm/scripts/rvm
+$ rvm use 2.2.1 --default
 $ gem install capybara
-$ gem install capybara-webkit
 $ gem install selenium-webdriver
+$ gem install capybara-webkit
 ```
-
 ## Python (Es optativo)
 
 ### Instalación Python (Linux)
@@ -43,4 +50,3 @@ Si quieres enviarnos tu currículum, estos son nuestros e-mails:
 * diego.arenal@bizneo.com
 * juanjo.rivera@bizneo.com
 * david.valero@bizneo.com
-* 
